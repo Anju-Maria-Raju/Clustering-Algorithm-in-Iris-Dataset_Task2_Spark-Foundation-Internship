@@ -1,4 +1,4 @@
-# Unsupervised Learning
+# Unsupervised Learning - Clustering Algorithm in Iris Dataset
 
 Internship at The Sparks Foundation
 ### TASK 2
